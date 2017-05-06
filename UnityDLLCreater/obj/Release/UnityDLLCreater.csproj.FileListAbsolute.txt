@@ -1,0 +1,8 @@
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\bin\Release\UnityDLLCreater.exe.config
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\bin\Release\UnityDLLCreater.exe
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\bin\Release\UnityDLLCreater.pdb
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\obj\Release\UnityDLLCreater.MainForm.resources
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\obj\Release\UnityDLLCreater.Properties.Resources.resources
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\obj\Release\UnityDLLCreater.csproj.GenerateResource.Cache
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\obj\Release\UnityDLLCreater.exe
+C:\自作ツール\UnityDLLCreater\UnityDLLCreater\UnityDLLCreater\obj\Release\UnityDLLCreater.pdb

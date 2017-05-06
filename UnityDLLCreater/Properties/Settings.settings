@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UnityDLLCreater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UNITY_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEFAULT_EXP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEFAULT_IMP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PATH_SMCS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Editor\Data\Mono\bin\smcs.bat</Value>
+    </Setting>
+    <Setting Name="PATH_UNITYENGINE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Editor\Data\Managed\UnityEngine.dll</Value>
+    </Setting>
+    <Setting Name="PATH_UNITYEDITOR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Editor\Data\Managed\UnityEditor.dll</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
